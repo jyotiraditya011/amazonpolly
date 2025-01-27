@@ -6,8 +6,8 @@ const path = require("path");
 // Configure AWS Polly
 const polly = new AWS.Polly({
     region: "ap-south-1",
-    accessKeyId: "yor",
-    secretAccessKey: "yotr",
+    accessKeyId: "AKIAQUFLQPM5B5HASO7W",
+    secretAccessKey: "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",
 });
 
 // Initialize Express App
